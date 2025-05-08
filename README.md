@@ -49,7 +49,7 @@ Developed analytical reports to assist **Shield Insurance** in understanding the
 
 ## 🔗 Links
 
-- 🎥 [Project Video](https://lnkd.in/gbcGcB9f)  
+- 🎥 [Project Video](https://lnkd.in/drkD_Gmw)  
 - 📊 [Live Power BI Dashboard](https://lnkd.in/gnw5Gdsv)
 
 ---

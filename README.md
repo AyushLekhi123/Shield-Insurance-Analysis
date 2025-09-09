@@ -60,4 +60,4 @@ Detailed insights and recommendations are provided in the presentation video.
 
 ---
 
-⭐ *Built with curiosity, creativity, and a love for data analytics!*
+⭐ *Special thanks to Codebasics for providing this internship opportunity*

@@ -4,6 +4,13 @@ A project as part of the **#codebasicsvirtualinternship**, focused on building a
 
 ---
 
+## 🔗 Links
+
+- 🎥 [Project Video](https://lnkd.in/drkD_Gmw)  
+- 📊 [Live Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBhOTQ1MzItYWUzNS00ZWE0LTlmNDYtNDBhZWQ1ZTI0MWM0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+---
+
 ## 🎯 Objective
 
 Developed analytical reports to assist **Shield Insurance** in understanding their business performance through:
@@ -44,13 +51,6 @@ Developed analytical reports to assist **Shield Insurance** in understanding the
 
 - Building correct and slicer-sensitive **DAX logic** took time
 - Extracting and choosing meaningful insights from vast data was challenging — required prioritization and clarity
-
----
-
-## 🔗 Links
-
-- 🎥 [Project Video](https://lnkd.in/drkD_Gmw)  
-- 📊 [Live Power BI Dashboard](https://lnkd.in/gnw5Gdsv)
 
 ---
 
